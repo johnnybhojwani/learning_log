@@ -25,7 +25,7 @@ SECRET_KEY = '*&w_6xo4gn*1c(n9r(i%mgw!a7=h!2s1j4mdre*aaiv3@j7%8o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['learning-log-33fo.onrender.com']
 
 
 
